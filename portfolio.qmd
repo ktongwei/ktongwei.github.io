@@ -1,0 +1,42 @@
+---
+title: "Professional Experience"
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+## TradeFlow Capital Management
+**Software Engineer** (Internship)  
+*May 2024 - Aug 2024 · 4 months*  
+**Location:** Singapore  
+
+**Role Focus:**  
+- Computer Science and Software Development  
+
+---
+
+## Republic of Singapore Air Force
+**Pilot Trainee** (Contract)  
+*Mar 2021 - Feb 2023 · 2 years*  
+**Location:** Singapore  
+
+**Training and Courses Completed:**  
+- 194th Basic Wings Course  
+- 194th Basic Aviation Ground School  
+- 125/21 Officer Cadet Course  
+- 05/21 Air Grading Course  
+- 04/20 Basic Military Training Cohort  
+
+---
+
+## NCS Group
+**Software Test Engineer** (Internship)  
+*Sep 2019 - Feb 2020 · 6 months*  
+**Location:** Singapore · On-site  
+
+**Key Responsibilities:**  
+- Assisted in the development and maintenance of several government-related online business portals.  
+- Collaborated with key stakeholders to develop comprehensive test plans.  
+- Executed test cases both manually and using automated testing tools to identify defects and verify fixes.  
+- Worked closely with developers, product managers, and other stakeholders to understand requirements and provide feedback throughout the development lifecycle.  

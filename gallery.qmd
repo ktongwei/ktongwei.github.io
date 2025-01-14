@@ -1,0 +1,5 @@
+---
+title: "Gallery"
+---
+
+![](docs/img/photo_2025-01-14_13-33-25.jpg){fig-align="center"}

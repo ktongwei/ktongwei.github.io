@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Assessment_1"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: portfolio.qmd
+        text: Portfolio
+      - href: gallery.qmd
+        text: Gallery
+      - href: reflection.qmd
+        text: Reflection
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

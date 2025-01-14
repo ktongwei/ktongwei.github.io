@@ -1,0 +1,31 @@
+---
+title: "Welcome to My Website"
+format:
+  html:
+    toc: false
+    css: styles.css
+---
+
+# Hello, I'm Koh Tong Wei 👋
+
+------------------------------------------------------------------------
+
+## About Me
+
+Currently pursuing a degree in Applied Computing with a specialisation in Fintech at Singapore Institute of Technology.
+
+------------------------------------------------------------------------
+
+## A Glimpse of Me
+
+### My Photo
+
+![](docs/img/photo_2025-01-14_13-33-25.jpg){fig-align="center"}
+
+*Caption: A photo of me.*
+
+## Connect with Me
+
+You can find me on: - [GitHub](https://github.com/ktongwei) - [LinkedIn](https://linkedin.com/in/ktongwei)
+
+Feel free to reach out!

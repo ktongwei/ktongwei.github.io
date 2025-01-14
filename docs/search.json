@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Assessment_1",
+    "title": "Welcome to My Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Currently pursuing a degree in Applied Computing with a specialisation in Fintech at Singapore Institute of Technology.\n\n\n\n\n\n\n\n\n\n\n\nCaption: A photo of me.\n\n\n\n\nYou can find me on: - GitHub - LinkedIn\nFeel free to reach out!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,110 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Software Engineer (Internship)\nMay 2024 - Aug 2024 · 4 months\nLocation: Singapore\nRole Focus:\n- Computer Science and Software Development"
+  },
+  {
+    "objectID": "portfolio.html#about-me",
+    "href": "portfolio.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Here’s a little about me: - 🌱 I’m currently learning [specific skill/subject]. - 💼 I work as [your job/role]. - 🎯 My goals include [personal or professional goals]. - 🎨 I enjoy [hobbies or creative interests]."
+  },
+  {
+    "objectID": "portfolio.html#a-glimpse-of-me",
+    "href": "portfolio.html#a-glimpse-of-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "This is me\n\n\nCaption: A photo of me doing what I love.\n\n\n\nHere’s a video or something that best represents me:"
+  },
+  {
+    "objectID": "portfolio.html#connect-with-me",
+    "href": "portfolio.html#connect-with-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "You can find me on: - GitHub - LinkedIn - Twitter\nFeel free to reach out!"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Currently pursuing a degree in Applied Computing with a specialisation in Fintech at Singapore Institute of Technology."
+  },
+  {
+    "objectID": "index.html#a-glimpse-of-me",
+    "href": "index.html#a-glimpse-of-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Caption: A photo of me."
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "You can find me on: - GitHub - LinkedIn\nFeel free to reach out!"
+  },
+  {
+    "objectID": "portfolio.html#tradeflow-capital-management",
+    "href": "portfolio.html#tradeflow-capital-management",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Software Engineer (Internship)\nMay 2024 - Aug 2024 · 4 months\nLocation: Singapore\nRole Focus:\n- Computer Science and Software Development"
+  },
+  {
+    "objectID": "portfolio.html#republic-of-singapore-air-force",
+    "href": "portfolio.html#republic-of-singapore-air-force",
+    "title": "Professional Experience",
+    "section": "Republic of Singapore Air Force",
+    "text": "Republic of Singapore Air Force\nPilot Trainee (Contract)\nMar 2021 - Feb 2023 · 2 years\nLocation: Singapore\nTraining and Courses Completed:\n- 194th Basic Wings Course\n- 194th Basic Aviation Ground School\n- 125/21 Officer Cadet Course\n- 05/21 Air Grading Course\n- 04/20 Basic Military Training Cohort"
+  },
+  {
+    "objectID": "portfolio.html#ncs-group",
+    "href": "portfolio.html#ncs-group",
+    "title": "Professional Experience",
+    "section": "NCS Group",
+    "text": "NCS Group\nSoftware Test Engineer (Internship)\nSep 2019 - Feb 2020 · 6 months\nLocation: Singapore · On-site\nKey Responsibilities:\n- Assisted in the development and maintenance of several government-related online business portals.\n- Collaborated with key stakeholders to develop comprehensive test plans.\n- Executed test cases both manually and using automated testing tools to identify defects and verify fixes.\n- Worked closely with developers, product managers, and other stakeholders to understand requirements and provide feedback throughout the development lifecycle."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection: How GenAI Supported My Assignment",
+    "section": "",
+    "text": "Working with GenAI has been an incredibly enlightening experience throughout the completion of this assignment. The AI provided guidance on structuring content, creating a cohesive narrative, and ensuring professional formatting in my Quarto project. By breaking down complex tasks, such as styling with CSS and organizing content in Markdown, GenAI helped streamline the workflow and eliminate confusion.\nOne of the most significant contributions was the ability to clarify ambiguous concepts. Whether it was understanding how to integrate Quarto with GitHub Pages or styling elements in CSS, the AI offered detailed, step-by-step instructions that made challenging tasks manageable."
+  },
+  {
+    "objectID": "reflection.html#contribution-of-genai",
+    "href": "reflection.html#contribution-of-genai",
+    "title": "Reflection: How GenAI Supported My Assignment",
+    "section": "",
+    "text": "Working with GenAI has been an incredibly enlightening experience throughout the completion of this assignment. The AI provided guidance on structuring content, creating a cohesive narrative, and ensuring professional formatting in my Quarto project. By breaking down complex tasks, such as styling with CSS and organizing content in Markdown, GenAI helped streamline the workflow and eliminate confusion.\nOne of the most significant contributions was the ability to clarify ambiguous concepts. Whether it was understanding how to integrate Quarto with GitHub Pages or styling elements in CSS, the AI offered detailed, step-by-step instructions that made challenging tasks manageable."
+  },
+  {
+    "objectID": "reflection.html#what-i-have-learned",
+    "href": "reflection.html#what-i-have-learned",
+    "title": "Reflection: How GenAI Supported My Assignment",
+    "section": "What I Have Learned",
+    "text": "What I Have Learned\nThis collaboration has deepened my understanding of several key areas:\n\n1. Quarto and Markdown\nI gained insights into formatting and structuring content in Markdown, enabling me to create professional and visually appealing documents. The seamless integration of text, media, and styling in Quarto is now clearer to me.\n\n\n2. Version Control with GitHub\nSetting up a private repository and linking it to my Quarto project highlighted the importance of version control and how it facilitates collaborative and iterative work.\n\n\n3. CSS Styling\nLearning to customize the website’s appearance through CSS was particularly valuable. From responsive design principles to specific styling techniques for navigation bars, images, and content sections, I now feel more confident in applying CSS to enhance user experience.\n\n\n4. Problem-Solving Approach\nGenAI demonstrated a methodical problem-solving approach—breaking tasks into smaller, actionable steps and iterating on feedback. This is a skill I plan to emulate in future projects."
+  },
+  {
+    "objectID": "reflection.html#personal-growth",
+    "href": "reflection.html#personal-growth",
+    "title": "Reflection: How GenAI Supported My Assignment",
+    "section": "Personal Growth",
+    "text": "Personal Growth\nThis assignment showcased the potential of AI as a powerful tool for both learning and execution. It helped me not only complete the assignment but also improve my technical skills and build confidence in tackling similar projects independently.\nOverall, GenAI has reinforced the value of collaborative learning, where technology serves as both a mentor and a guide, empowering me to achieve my goals more efficiently."
   }
 ]
